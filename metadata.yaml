@@ -1,11 +1,16 @@
 _repo: An-Address-to-Lord-Teignmouth-occasioned-by-his-address-to-the-clergy-of-the-Church-of-Englan__62185
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62185-h/images/cover.jpg
 creator:
   author:
     agent_name: Sikes, Thomas
     gutenberg_agent_id: '51813'
     url: http://www.gutenberg.org/2009/agents/51813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62185#An-Address-to-Lord-Teignmouth-occasioned-by-his-address-to-the-clergy-of-the-Church-of-Englan_
 gutenberg_issued: '2020-05-21'
 gutenberg_type: Text
 identifiers:
